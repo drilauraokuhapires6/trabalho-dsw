@@ -1,0 +1,16 @@
+h1.titulo {
+	font-size: 50px;
+
+}
+h2.numero{
+	font-size: 50px;
+}
+div.lang{
+	float: left;
+}
+div.abc{
+	float: right;
+}
+div.progress{
+	clear: both;
+}
