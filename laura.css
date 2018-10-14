@@ -1,16 +1,85 @@
-h1.titulo {
-	font-size: 50px;
 
+.navbar{
+  background-color: #FF0000;
 }
-h2.numero{
-	font-size: 50px;
+.col-3 h1 {
+  color: white;
+  text-decoration: underline;
 }
-div.lang{
-	float: left;
+.collapse input{
+  background-color: #A7140A;
+  border: none;
 }
-div.abc{
-	float: right;
+/*parte de cima*/
+.presidente{
+  margin-top: 200px;
 }
-div.progress{
-	clear: both;
+.presidente h1{
+  font-size: 50px;
+  float: left;
+}
+.presidente h4{
+  float: right;
+  margin-top: 20px;
+  color: #9A9A9A;
+}
+.progress{
+  margin-top: 280px;
+  height: 15px;
+  background-color: #34C771;
+}
+/*parte principal*/
+.col-6 p{
+  margin-top: 8px;
+  padding-bottom: 30px;
+  font-size: 25px;
+}
+h3{
+  padding-top: 30px;
+}
+.candidato{
+  margin-top: 30px;
+}
+.candidato progress{
+  margin-top: 20px;
+  height: 10px;
+}
+.nome{
+  font-size: 25px;
+}
+.percentual {
+  margin-top: -80px;
+  float: right;
+  font-size: 25px;
+}
+.percentual a{
+  float: right;
+}
+.turno{
+  border: solid 3px #34C771;
+  border-radius: 15%;
+}
+.text-muted span{
+  border-radius: 35%;
+  border: solid 2px #34C771;
+}
+span b {
+  color: #34C771;
+}
+.foto{
+  float: left;
+}
+.foto img{
+  border: solid 1px #9A9A9A;
+  border-radius: 100%;
+  width: 70%;
+}
+.foto2{
+  float: left;
+}
+.foto2 img{
+  border: solid 1px #9A9A9A;
+  border-radius: 100%;
+  width: 70%;
+  opacity: 0.5;
 }
