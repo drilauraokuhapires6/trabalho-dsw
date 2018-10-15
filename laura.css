@@ -5,37 +5,40 @@
 .col-3 h1 {
   color: white;
   text-decoration: underline;
+
 }
 .collapse input{
   background-color: #A7140A;
   border: none;
 }
-/*parte de cima*/
+
 .presidente{
   margin-top: 200px;
 }
 .presidente h1{
   font-size: 50px;
   float: left;
+  padding-top: -100px;
 }
 .presidente h4{
   float: right;
   margin-top: 20px;
-  color: #9A9A9A;
+  color: #696969;
 }
 .progress{
-  margin-top: 280px;
+  margin-top: 180px;
   height: 15px;
   background-color: #34C771;
 }
-/*parte principal*/
+
 .col-6 p{
-  margin-top: 8px;
+  margin-top: 6px;
   padding-bottom: 30px;
   font-size: 25px;
+
 }
 h3{
-  padding-top: 30px;
+  padding-top: 10px;
 }
 .candidato{
   margin-top: 30px;
@@ -76,6 +79,7 @@ span b {
 }
 .foto2{
   float: left;
+  border-radius: 50px;
 }
 .foto2 img{
   border: solid 1px #9A9A9A;
